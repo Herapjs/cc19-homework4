@@ -8,6 +8,7 @@ box-sizing: border-box;
 }
 body{
     font-family: "Inter", sans-serif; 
+    background-color: azure;
 }
 .post {
     /* background-color: aqua; */
